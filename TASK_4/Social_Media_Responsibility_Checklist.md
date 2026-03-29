@@ -23,7 +23,10 @@ Don’ts
 ---
 
 Note
+
 Following these guideline helps to maintain a safe, respectful, and positive online presence.
+
+---
 
 Conclusion
 
