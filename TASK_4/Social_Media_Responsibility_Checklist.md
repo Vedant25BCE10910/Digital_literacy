@@ -1,5 +1,5 @@
 ---
-# 📱 Social Media Do’s and Don’ts Checklist
+Social Media Do’s and Don’ts Checklist
 
 ---
 
@@ -26,6 +26,10 @@ Don’ts
 Note
 Following these guideline helps to maintain a safe, respectful, and positive online presence.
 
+---
+
 Conclusion
 
 Following these simple do’s and don’ts can help students to maintain a safe digital presence, protect their privacy, and build a positive online identity.
+
+---
