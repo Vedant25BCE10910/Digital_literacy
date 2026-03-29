@@ -25,7 +25,6 @@ This checklist highlights responsible social media practices for college student
 
 ---
 
----
 ## CHECKLIST TABLE
 
 | ✅ Do’s | ❌ Don’ts |
@@ -40,6 +39,8 @@ This checklist highlights responsible social media practices for college student
 
 ## 📌 Note
 Following these guidelines helps maintain a safe, respectful, and positive online presence.
+
+---
 
 ## 📌 Conclusion
 
