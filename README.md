@@ -7,7 +7,7 @@
 - Registration number: 25BCE10910
 - CSE [CORE] 1rst year
 
-## 📌 Project Overview
+##Project Overview
 This project focuses on building a **Digital Literacy Portfolio** to develop essential skills required in today’s digital world. It covers creating a professional online presence, understanding digital tools, maintaining proper communication, and ensuring cyber safety.  
 
 The project is divided into five modules (tasks), each addressing a key area of digital literacy such as awareness, portfolio building, collaboration tools, communication etiquette, and cybercrime prevention.  
