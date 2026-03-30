@@ -32,7 +32,7 @@ The project is organised into five distinct tasks, each addressing a crucial asp
   - Useful tools (Google Docs, MS Word, GitHub)  
   - Online safety tips (passwords, phishing, 2FA)  
 - Learned how to present information clearly and visually  
-
+Link:https://canva.link/ypwmwlzaed5sq0r
 
 
 ---
