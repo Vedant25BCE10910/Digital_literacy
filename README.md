@@ -47,7 +47,7 @@ The project is organised into five distinct tasks, each addressing a crucial asp
   - Networking  
   - Career growth  
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/Vedant25BCE10910
 
 ---
 
